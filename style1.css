@@ -1,0 +1,20 @@
+ /* Prueba en css  */
+/* elemento.nombre_clase{ */
+
+/* } */
+    p{
+        color: pink;
+    }
+    p.roig{
+        color: red;}
+
+    p.blau{
+        color: blue;
+    }
+    h2.blau{
+        color: blue;
+    }
+    .verd{
+        color: green
+        ;
+    }
